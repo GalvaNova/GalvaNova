@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm GalvaNova<br>🎓 Master's Student @ UGM<br>💡 Enthusiast in IoT, Web Development, Data, and Radiation Protection ⚛️<br>🌱 Currently learning: Smart IoT Systems & Data-driven Applications<br>⚡ Fun fact: Mixing tech & science to make the world safer
+👋 Hi, I'm Gredynov Sitanggang<br>🎓 Master's Student @ Universitas Gadjah Mada<br>💡 Enthusiast in IoT, Web Development, Data, and Radiation Protection ⚛️<br>🌱 Currently learning: Smart IoT Systems & Data-driven Applications<br>⚡ Fun fact: Mixing tech & science to make the world safer
 
 
 ## 🌐 Socials:
