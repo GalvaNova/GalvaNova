@@ -5,10 +5,6 @@ I build IoT systems and web-based monitoring dashboards, with interests in conte
 
 **Current focus:** Ontology-based Smart Home (OWL/SWRL, SPARQL, Fuseki) and IoT monitoring pipelines.
 
-### Links
-- Instagram: https://www.instagram.com/genvy_stg/
-- Email: galvanysitanggang@gmail.com
-
 ### Tech I Use
 IoT: ESP8266/ESP32, Arduino, MQTT, Node-RED  
 Backend/Web: JavaScript, PHP, MySQL, Firebase  
