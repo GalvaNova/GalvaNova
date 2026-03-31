@@ -72,7 +72,7 @@ status     : 🟢 Active Developer & Researcher
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GalvaNova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&count_private=true" />
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=GalvaNova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&count_private=true" /> -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalvaNova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
 
 </div>
